@@ -1,0 +1,43 @@
+body{
+  width: 50%;
+  margin-left: 25%;
+  
+  text-align: center;
+  background-image:url(bg.jpeg)
+}
+
+h3{
+  color: white;
+}
+
+.super{
+  text-decoration: underline;
+  background-color: rgb(174, 173, 236);
+  padding: 2rem;
+  border-radius: 1rem;  
+}
+
+.top{
+  margin-top: 3rem;
+  font-size: 1.25rem;
+  margin-bottom: 3rem;
+}
+
+#todo{
+  margin: 2rem;
+  font-size: 1rem;
+  padding: 1rem;
+  border:solid 1rem darkblue;
+}
+
+#donetodo{
+  margin: 2rem;
+  font-size: 1rem;
+  padding: 1rem;
+  border:solid 1rem darkblue;
+}
+
+.list-group-item{
+  padding: 1rem;
+  margin: .5rem;
+}
